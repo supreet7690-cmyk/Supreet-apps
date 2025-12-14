@@ -1,0 +1,9 @@
+{
+  "name": "Copy of EcoWise",
+  "description": "AI-Powered Sustainable Living Companion",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
